@@ -6,8 +6,8 @@
 
 <h2 align="center"><a  href="https://tom.163.com">重振猫鼠荣光，我辈义不容辞！</a></h2>
 
-<a  href="./suzhizhanlan/index.html">点我进入素质展览</a>
-<iframe id="inlineFrameExample" title="Inline Frame Example" width="300" height="200" src="/suzhizhanlan/index.html" />
+<a  href="./suzhizhanlan/index.html">点我进入素质展览（维护中）</a>
+
 
 ## 什么是素质萝卜哥
 
