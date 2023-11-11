@@ -1,6 +1,5 @@
 <head>
  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
- <style type="text/css">iframe {border: 1px solid black;width: 100%;}</style>
 </head>
 <h1 align="center">素质萝卜哥的快乐生活</h1>
 
