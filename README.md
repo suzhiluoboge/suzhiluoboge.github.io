@@ -1,12 +1,13 @@
 <head>
  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+ <style type="text/css">iframe {border: 1px solid black;width: 100%;}</style>
 </head>
 <h1 align="center">素质萝卜哥的快乐生活</h1>
 
 <h2 align="center"><a  href="https://tom.163.com">重振猫鼠荣光，我辈义不容辞！</a></h2>
 
 <a  href="./suzhizhanlan/index.html">点我进入素质展览</a>
-<style type="text/css">iframe {border: 1px solid black;width: 100%; /* takes precedence over the width set with the HTML width attribute */}</style><iframe id="inlineFrameExample" title="Inline Frame Example" width="300" height="200" src="/suzhizhanlan/index.html" />
+<iframe id="inlineFrameExample" title="Inline Frame Example" width="300" height="200" src="/suzhizhanlan/index.html" />
 
 ## 什么是素质萝卜哥
 
