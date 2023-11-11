@@ -6,21 +6,7 @@
 <h2 align="center"><a  href="https://tom.163.com">重振猫鼠荣光，我辈义不容辞！</a></h2>
 
 <a  href="./suzhizhanlan/index.html">点我进入素质展览</a>
-
-<style type="text/css">
- iframe {
-         border: 1px solid black;
-         width: 100%; /* takes precedence over the width set with the HTML width attribute */
-}
-</style>
-<iframe
-  id="inlineFrameExample"
-  title="Inline Frame Example"
-  width="300"
-  height="200"
-  src="/suzhizhanlan/index.html">
-</iframe>
-
+<style type="text/css">iframe {border: 1px solid black;width: 100%; /* takes precedence over the width set with the HTML width attribute */}</style><iframe id="inlineFrameExample" title="Inline Frame Example" width="300" height="200" src="/suzhizhanlan/index.html" />
 
 ## 什么是素质萝卜哥
 
